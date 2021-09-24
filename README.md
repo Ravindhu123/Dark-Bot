@@ -37,8 +37,8 @@ Project created by <a href="https://github.com/Ravindhu123">MR-DARK</a> to make 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ravindhu123/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Ravindhu123/Dark-Bot
+$ cd Dark-Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -46,8 +46,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ravindhu123/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Ravindhu123/Dark-Bot
+$ cd Dark-Bot
 $ npm i
 $ node julie.js
 ```
@@ -88,9 +88,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Mr Dark](https://github.com/Ravindhu123.png?size=100)](https://github.com/Ravindhu123) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/cyberchekuthan) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [MR DARK](https://github.com/Ravindhu123) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
