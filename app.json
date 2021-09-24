@@ -135,7 +135,7 @@
             "value": "•━━━━╼⤏DARK-BOT⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Amalser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "DARK-BOT Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
