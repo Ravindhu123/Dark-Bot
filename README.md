@@ -1,3 +1,7 @@
+#### © Select your language
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Ravindhu123/Dark-Bot/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Ravindhu123/Dark-Bot/blob/main/README-SI.md)
+
 # Dark-Bot
 
 <div align="center">
