@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ DARK-BOT ~______~*' +
-                                    '\n*🌀 Join our support group other wise chance to get erorr:https://chat.whatsapp.com/CUAkzQUnu600ipmFOZhsAd *' +
+                                    '\n*🌀 Join our support group other wise chance to get erorr: https://chat.whatsapp.com/CUAkzQUnu600ipmFOZhsAd *' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
